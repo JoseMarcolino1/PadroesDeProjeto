@@ -1,6 +1,6 @@
 package classes;
 
-class Participante extends Pessoa {
+public class Participante extends Pessoa {
     private String categoria;
 
     public Participante(String nome, String email, String categoria) {
